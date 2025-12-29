@@ -1,5 +1,5 @@
 <!---------------------------- Banner Image ----------------------------->
-![Ransford Yeboah - Banner](https://user-images.githubusercontent.com/65373279/118028011-34ec0180-b380-11eb-80ce-58f1e13a1292.png)
+![Ransford Yeboah - Banner](https://res.cloudinary.com/daysgbjom/image/upload/v1767039842/djrwjer_fcr8q3.png)
 
 
 <!---------------------------- Typewriter animation ----------------------------->
@@ -11,11 +11,11 @@
 <!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
 
 - 🔭 Currently crafting my Portfolio with passion and precision.
-- 👯 Building [Design & Code](https://discord.gg/gM3bG4rAU5) Community.
+- 👯 Building [AfriPropel](https://afripropel.vercel.app).
 - 👨‍💻 Explore my diverse projects at https://ransford-yeboah-kwabena.vercel.app/
 - 💬 Ask me about **Web Development, UI/UX Design, Graphic Design.**
-- 📫 Reach out to me at: <a href="mailto:devrajchatribin9978@gmail.com">developerpalma7@gmail.com</a>
-- 📄 Dive into my experiences with my **Resume**: [here](https://docs.google.com/document/d/1Gt9kTDOgqljUXPw6nbJGGiKxbST5IjEY)
+- 📫 Reach out to me at: <a href="mailto:developerpalma7@gmail.com">developerpalma7@gmail.com</a>
+- 📄 Dive into my experiences with my **Resume**: [here](https://docs.google.com/document/d/1rpjYXVEtL1ewj94tvaqmGOW9aX0Zc_Mkn7qt-HcHHTw/edit?usp=sharing)
 - ⚡ Fun fact: Apart from coding, I'm also an accomplished **Digital Artist**!
 <br>
 <br>
