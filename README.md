@@ -4,6 +4,7 @@
 
 <!---------------------------- Typewriter animation ----------------------------->
 # Hello👋, It's me Ransford!😇
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Engineer;I'm+a+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Graphic+Designer)
 
 
 <!---------------------------- About Me ----------------------------->
@@ -32,7 +33,7 @@
 ## 🔖 Some of my Repositories
 
 <p align="left">
-  <a href="https://github.com/DevrajDC/dc-code-screenshot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=dc-code-screenshot&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DevrajDC/dc-code-screenshot"><img width="278" src="https://github.com/DevBaba/leaf-diseases-detect-systemrepo=dc-code-screenshot&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DevrajDC/aora-react-native"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=aora-react-native&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DevrajDC/ochi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=ochi&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/DevrajDC/resourceshub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevrajDC&repo=resourceshub&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg"></a>
@@ -49,13 +50,13 @@
 ## 🤝🏻 Connect with Me
 
 <p align="left">
-<a href="mailto:devrajchatribin9978@gmail.com" style="text-decoration:none">
+<a href="mailto:developerpalma7@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/devraj-chatribin/" style="text-decoration:none">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBransford-yeboah-b96994297/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/devraj_uiux/" style="text-decoration:none">
+<a href="https://instagram.com/https://www.instagram.com/palma_kbb/?ref=zjxhzkwfzjb Organizations)" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
