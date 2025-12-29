@@ -47,9 +47,7 @@
 <a href="https://instagram.com/https://www.instagram.com/palma_kbb/?ref=zjxhzkwfzjb Organizations)" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
-  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+
 </p>
 
 
